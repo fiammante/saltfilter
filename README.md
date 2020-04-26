@@ -64,12 +64,12 @@ I bought the following &quot;Speedsporting Full Face Snorkel Mask 180°&quot; on
 
 12/ Put the outer slide. Repeat 11 and 12 for the other side.
 
-![Mask11](/images/mask11.JPG) 
+![Mask11](/images/mask11.JPG) ![Mask12](/images/mask12.JPG)
 
 13/ Put the filter in the snorkel place ensure that inlet and outlet are in their respective holes. 
 
-![Mask12](/images/mask12.JPG) | 
+![Mask13](/images/mask13.JPG)
 
 14/ Inside view. 
 
-![](/images/mask13.JPG)
+![Mask14](/images/mask14.JPG)
