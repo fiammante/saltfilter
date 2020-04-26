@@ -9,5 +9,6 @@ If you have another mask the inletv.scad out outletv.scad should be changed to f
 
 The parts to print are filter.scad for the filter itself and grid.scad for the 4 grid separation that maintain the high granularity salt in place.
 
-
-
+![Image of Filter top] (https://github.com/fiammante/saltfilter/blob/master/images/topview.png)
+![Image of Filter bottom] (https://github.com/fiammante/saltfilter/blob/master/images/bottom.png)
+![Image of Separation grids] (https://github.com/fiammante/saltfilter/blob/master/images/grids.png)
