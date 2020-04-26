@@ -17,32 +17,59 @@ Given the lack of masks, after reading [&quot;Universal and reusable virus deact
 Here are the steps that I followed
 
 I bought the following &quot;Speedsporting Full Face Snorkel Mask 180°&quot; on Amazon: 
-| ![Mask1](/images/mask1.JPG) 
+
+![Mask1](/images/mask1.JPG) 
+
 2/ Remove the snorkel one pin to remove) 
+
 ![Mask2](/images/mask2.JPG)
+
 3/ View from top Air in and out flows. These snorkel masks separate with valves the air flow going in and going out. |
+
 ![Mask3](/images/mask3.JPG) |
+
 4/ Created a 3D model of a filter with separated inlet and outlet 
+
 ![Image of Filter top](/images/topview.png)
 ![Image of Filter bottom](/images/bottom.png)
 ![Image of Separation grids](/images/grids.png)
+
 5/ After few hours of printing 
+
 ![Mask4](/images/mask4.JPG)
+
 6/ Side view 
+
 ![Mask5](/images/mask5.JPG) |
+
 7/ Insert the inner sliders
+
 ![Mask6](/images/mask6.JPG) 
+
 8/ Get dish washer salt, check it is regular salt (Na Cl). The reason being that salt is high grained and will let air flow between the grains. 
+
 ![Mask7](/images/mask7.JPG) |
+
 9/ Cut out the support from the inner sliders to the outside |
+
 ![Mask8](/images/mask8.JPG) |
+
 10/ Side view
+
 ![Mask9](/images/mask9.JPG) 
+
 11/ Fill with salt make sure the outer slider can get in. Tamp down to ensure it is full of salt. 
+
 ![Mask10](/images/mask10.JPG) 
+
 12/ Put the outer slide. Repeat 11 and 12 for the other side.
+
 ![Mask11](/images/mask11.JPG) 
+
 13/ Put the filter in the snorkel place ensure that inlet and outlet are in their respective holes. 
+
 ![Mask12](/images/mask12.JPG) | 
+
 14/ Inside view. 
+
 ![](/images/mask13.JPG)
