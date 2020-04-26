@@ -16,8 +16,9 @@ Given the lack of masks, after reading [&quot;Universal and reusable virus deact
 
 Here are the steps that I followed
 
-| 1/ I bought the following &quot;Speedsporting Full Face Snorkel Mask 180°&quot; on Amazon:
- | 2/ Remove the snorkel (one pin to remove) | 3/ View from top Air in and out flows. These snorkel masks separate with valves the air flow going in and going out. |
+| 1/ I bought the following &quot;Speedsporting :
+ | 2/ Remove the snorkel  | 3/ View from top Air in and out flows.|
+| 1/ Full Face Snorkel Mask 180°&quot; on Amazon: | 2/ (one pin to remove) || 3/ These snorkel masks separate with valves the air flow going in and going out. |
 | --- | --- | --- |
 | ![Mask1](/images/mask1.JPG) | ![Mask2](/images/mask2.JPG) | ![Mask3](/images/mask3.JPG) |
 |
