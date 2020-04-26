@@ -9,3 +9,5 @@ If you have another mask the inletv.scad out outletv.scad should be changed to f
 
 The parts to print are filter.scad for the filter itself and grid.scad for the 4 grid separation that maintain the high granularity salt in place.
 
+
+
