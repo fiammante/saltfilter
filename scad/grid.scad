@@ -29,14 +29,14 @@ nY=meshY/(meshSolid+meshSpace);
 // Generate mesh as module
 module myMesh(){
     for (i=[0:nX]) {
-         translate([-(meshX/2)+i*(meshSolid+meshSpace),-meshY/2,-thickness/2]){
-             cube(size=[meshSolid,meshY,thickness],center=false);
+         translate([-(meshX/2)+i*(meshSolid+meshSpace),-meshY/2,]){
+             cube(size=[meshSolid,meshY,thickness/2],center=false);
          };
     }
 
     for (i=[0:nY]) {
         translate([-meshX/2,-(meshY/2)+i*(meshSolid+meshSpace),-thickness/2]){
-           cube(size=[meshX,meshSolid,thickness],center=false);
+           cube(size=[meshX,meshSolid,thickness/2],center=false);
         };
 
     }
